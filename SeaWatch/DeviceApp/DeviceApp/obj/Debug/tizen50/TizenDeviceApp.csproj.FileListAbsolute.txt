@@ -1,0 +1,10 @@
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\bin\DeviceApp.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\bin\DeviceApp.pdb
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\tpkroot\DeviceApp.deps.json
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp\bin\Debug\tizen50\-.tpk

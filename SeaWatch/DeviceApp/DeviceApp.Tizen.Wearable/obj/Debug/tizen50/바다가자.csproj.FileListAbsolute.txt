@@ -1,0 +1,12 @@
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\바다가자.deps.json
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\바다가자.dll
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\바다가자.pdb
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\DeviceApp.dll
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\DeviceApp.pdb
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\obj\Debug\tizen50\바다가자.csproj.CoreCompileInputs.cache
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\obj\Debug\tizen50\바다가자.AssemblyInfoInputs.cache
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\obj\Debug\tizen50\바다가자.AssemblyInfo.cs
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\obj\Debug\tizen50\XamlC.stamp
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\obj\Debug\tizen50\바다가자.csproj.CopyComplete
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\obj\Debug\tizen50\바다가자.dll
+C:\Users\JeYoung\Downloads\Tizen-CSharp-Samples-master (1)\Tizen-CSharp-Samples-master\Wearable\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\obj\Debug\tizen50\바다가자.pdb

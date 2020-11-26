@@ -1,0 +1,15 @@
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\DeviceApp.Tizen.Wearable.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\DeviceApp.Tizen.Wearable.pdb
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\DeviceApp.dll
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\bin\DeviceApp.pdb
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\DeviceApp.Tizen.Wearable.deps.json
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\shared\res\DeviceApp.Tizen.Wearable(1).png
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\shared\res\DeviceApp.Tizen.Wearable.png
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\tpkroot\tizen-manifest.xml
+C:\Users\JeHyun\Desktop\DeviceApp\DeviceApp\DeviceApp.Tizen.Wearable\bin\Debug\tizen50\org.tizen.example.DeviceApp.Tizen.Wearable-1.0.0.tpk
