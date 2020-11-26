@@ -1,0 +1,15 @@
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Data\city.list.json
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Data\country.list.json
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Weather.dll
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Weather.pdb
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Newtonsoft.Json.dll
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\Weather.deps.json
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\shared\res\Weather.png
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\tpkroot\tizen-manifest.xml
+C:\Users\JeHyun\Desktop\Weather123\Weather\bin\Debug\tizen40\org.tizen.example.Weather-1.0.0.tpk
